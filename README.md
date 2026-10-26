@@ -1,5 +1,7 @@
 # Water Tank Pump Control — PLC Ladder Logic
 
+##Video Demo : https://youtu.be/j1ffTtix1-k
+
 ## Overview
 
 Simulated PLC-based water tank filling system developed using LADX Ladder Simulator.
